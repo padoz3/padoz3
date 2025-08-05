@@ -7,4 +7,4 @@
 </a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/padoz3)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/pad0)
