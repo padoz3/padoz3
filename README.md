@@ -6,4 +6,5 @@
 />
 </a>
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=padoz3)](https://github.com/padoz3/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/padoz3)
