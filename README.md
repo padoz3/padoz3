@@ -36,3 +36,7 @@
 ## 🧩 Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pad0)](https://solved.ac/pad0)
+
+## 🐢 Status
+[![github stats](https://github-readme-stats.vercel.app/api?username=padoz3)](https://github.com/anuraghazra/github-readme-stats)
+
